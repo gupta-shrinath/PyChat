@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"WŁ."</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="add_member_message">Czy na pewno chcesz dodać? %s w tej grupie?</string>
+    <string name="add_member_title">Dodaj członka(s)</string>
+    <string name="add_more">+ Dodaj więcej</string>
+    <string name="audio">Audio</string>
+    <string name="back">Wroc</string>
+    <string name="button_allow" ns2:keep="@string/button_allow">Dopusc</string>
+    <string name="button_deny" ns2:keep="@string/button_deny">Odrzuc</string>
+    <string name="change_number">Zmienić numer?</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Włącz"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Zainstaluj"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostępność Usług Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Zaktualizuj Usługi Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <string name="confirm">Potwierdz</string>
+    <string name="confirm_phone">Hasło jednorazowe zostanie wysłane na ten numer! Kontynuuj z tym numerem?</string>
+    <string name="contact">Kontakt</string>
+    <string name="contact_us">Skontaktuj się z nami</string>
+    <string name="content_privacy">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat sed lectus vestibulum mattis. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Tristique nulla aliquet enim tortor. Donec et odio pellentesque diam volutpat commodo. Mi ipsum faucibus vitae aliquet nec. In hac habitasse platea dictumst vestibulum rhoncus. Varius vel pharetra vel turpis nunc eget lorem dolor. At ultrices mi tempus imperdiet nulla malesuada. Et netus et malesuada fames ac turpis egestas. Aliquam sem fringilla ut morbi. Scelerisque eleifend donec pretium vulputate sapien nec. Ut tortor pretium viverra suspendisse. Habitant morbi tristique senectus et netus et malesuada fames ac. Condimentum lacinia quis vel eros donec ac odio tempor orci. Sed viverra tellus in hac habitasse platea dictumst. A cras semper auctor neque vitae tempus quam. Sollicitudin tempor id eu nisl nunc. Nulla aliquet enim tortor at auctor urna nunc.
+
+Quis vel eros donec ac odio tempor orci. Sit amet consectetur adipiscing elit pellentesque habitant morbi. Non diam phasellus vestibulum lorem sed risus ultricies tristique. Morbi enim nunc faucibus a pellentesque sit amet porttitor. Scelerisque in dictum non consectetur. Metus aliquam eleifend mi in nulla posuere. In hac habitasse platea dictumst. Ultricies leo integer malesuada nunc vel risus commodo viverra maecenas. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas diam in arcu cursus euismod quis viverra.
+
+Neque aliquam vestibulum morbi blandit. Molestie nunc non blandit massa enim nec dui. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Augue interdum velit euismod in pellentesque massa placerat. Nunc id cursus metus aliquam. Pulvinar pellentesque habitant morbi tristique senectus. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Ac tortor dignissim convallis aenean et tortor at risus viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Consequat id porta nibh venenatis. Sit amet luctus venenatis lectus magna. Sit amet massa vitae tortor condimentum. Nisi lacus sed viverra tellus in hac habitasse platea. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Non odio euismod lacinia at quis risus. Mollis aliquam ut porttitor leo.</string>
+    <string name="create_group">Stworz grupę</string>
+    <string name="delete_chat_message">Kontynuuj usuwanie wybranych czatów?</string>
+    <string name="delete_chat_title">Usuń czat</string>
+    <string name="delete_msg_message">Kontynuuj usuwanie wybranych wiadomości?</string>
+    <string name="delete_msg_title">Usuń wiadomości</string>
+    <string name="dial_permission">Aby automatycznie wybrać numer, potrzebujemy tego uprawnienia</string>
+    <string name="docs">Dokumenty</string>
+    <string name="document">Dokument</string>
+    <string name="done">GOTOWE</string>
+    <string name="download_message">Sciagnij %s teraz</string>
+    <string name="edit">Edytuj</string>
+    <string name="empty_contact_list_for_group">Nie masz wystarczającej liczby znajomych \, aby być w grupie</string>
+    <string name="empty_group_chat_list">Tutaj są wyświetlane czaty grupowe \ Rozpocznij czat, wybierając grupę.</string>
+    <string name="empty_log_call_list">Twoje dzienniki połączeń pojawiają się tutaj \ Rozpocznij od wybrania użytkownika.</string>
+    <string name="empty_text_chat_list">Tutaj są wyświetlane czaty \ Rozpocznij czat, wybierając użytkownika.</string>
+    <string name="err_upload_image">Nie można przesłać obrazu.</string>
+    <string name="err_upload_img">Nie można przesłać obrazu.</string>
+    <string name="error_create_user">Coś poszło nie tak, nie można utworzyć użytkownika.</string>
+    <string name="error_detail">Coś poszło nie tak%s</string>
+    <string name="error_request">Nie można przetworzyć żądania w tym momencie</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Inne"</string>
+    <string name="file_not_found">Nie znaleziono pliku! \ Plik przeniesiony, usunięty lub zmieniony.</string>
+    <string name="gave_miss">Dałem ci tęsknotę za telefonem</string>
+    <string name="get_image_camera">Kamera</string>
+    <string name="get_image_gallery">Galeria</string>
+    <string name="get_image_title">Pobierz obraz z</string>
+    <string name="group_created">Utworzono grupę</string>
+    <string name="group_info">Info Grupy</string>
+    <string name="group_participants_error">Nie można załadować wszystkich członków grupy Odśwież użytkowników, a następnie sprawdź ponownie.</string>
+    <string name="hint_group_name">Nazwa Grupy</string>
+    <string name="hint_phone">Twój numer telefonu</string>
+    <string name="hint_search">Szukaj</string>
+    <string name="image">Fotka</string>
+    <string name="image_updated">Zaktualizowano obraz profilu</string>
+    <string name="invitation_message">Hej, znalazłem %s!, fajna aplikacja do czatowania, dołącz do mnie tutaj.\nhttps://kontakt365.pl</string>
+    <string name="invitation_share_title">Udostępnij za pomocą..</string>
+    <string name="invitation_title">%s Zaproszenie</string>
+    <string name="invite_friends">Zaprosić przyjaciół…</string>
+    <string name="invite_friends_message">Następujące kontakty są niedostępne</string>
+    <string name="invite_friends_title">Zaprosić przyjaciół</string>
+    <string name="invite_short">Zapraszam</string>
+    <string name="just_moment">Chwileczkę..</string>
+    <string name="location">Lokalizacja</string>
+    <string name="logging_in">Logowanie się!</string>
+    <string name="logout">Wyloguj</string>
+    <string name="logout_message">Czy na pewno chcesz się wylogować??</string>
+    <string name="logout_title">Wyloguj</string>
+    <string name="media">Media</string>
+    <string name="member_added">Członkowie dodani</string>
+    <string name="member_count">%d członek(s)</string>
+    <string name="member_removed">Członek został usunięty</string>
+    <string name="message_copied">Wiadomości zostały skopiowane</string>
+    <string name="message_otp">Wyślemy ci wiadomość OTP. Mogą obowiązywać stawki standardowe.</string>
+    <string name="mute_notifications">Wycisz powiadomienia</string>
+    <string name="name">Nazwa</string>
+    <string name="no">Nie</string>
+    <string name="no_groups">Nie masz żadnych grup \ Na początek utwórz nową grupę.</string>
+    <string name="no_members">Brak nowych członków do dodania</string>
+    <string name="otp_sending">Wysyłam otp</string>
+    <string name="otp_sending_msg">Wysyłane jest hasło jednorazowe: \n %s</string>
+    <string name="otp_sent">Wpisz kod weryfikacyjny wysłany na adres %s \n</string>
+    <string name="otp_verifying">Weryfikacja otp</string>
+    <string name="otp_verifying_msg">Weryfikacja otp…</string>
+    <string name="participants_0">Uczestnicy (0)</string>
+    <string name="participants_count">Uczestnicy (%d)</string>
+    <string name="permission_mic">Ta aplikacja wymaga uprawnień do poprawnego działania mikrofonu.</string>
+    <string name="phone_number">Numer Telefonu</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Wyczyść wyszukiwanie"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Szukaj"</string>
+    <string name="places_autocomplete_clear_button">Wyczyść wyszukiwanie</string>
+    <string name="places_autocomplete_label">Wybierz miejsce</string>
+    <string name="places_autocomplete_no_results_for_query">Brak wyników dla zapytania „%1$s”</string>
+    <string name="places_autocomplete_search_hint">Szukaj</string>
+    <string name="places_cancel">Anuluj</string>
+    <string name="places_powered_by_google">Technologia Google</string>
+    <string name="places_search_error">Nie można wczytać wyników wyszukiwania.</string>
+    <string name="places_try_again">Spróbuj ponownie</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="rate_app">Oceń aplikację</string>
+    <string name="recodring">Nagranie…</string>
+    <string name="recording_cancelled">Nagrywanie zostało anulowane</string>
+    <string name="remove_user_message">Czy na pewno chcesz usunąć %s z tej grupy?</string>
+    <string name="remove_user_title">Usuń użytkownika</string>
+    <string name="removed_from_group">Zostałeś usunięty z tej grupy</string>
+    <string name="resend">Wysłać ponownie?</string>
+    <string msgid="368094699078615544" name="s1">"Zapisz obraz"</string>
+    <string msgid="4550830452390689489" name="s2">"Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?"</string>
+    <string msgid="2435407834265420668" name="s3">"Zaakceptuj"</string>
+    <string msgid="9167523597401839819" name="s4">"Odrzuć"</string>
+    <string msgid="1566682516266724847" name="s5">"Utwórz wydarzenie w kalendarzu"</string>
+    <string msgid="5996672174517137271" name="s6">"Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?"</string>
+    <string msgid="7163549807207034258" name="s7">"Reklama testowa"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Szukaj"</string>
+    <string name="selected_count">%d wybrane</string>
+    <string name="share_app">Udostępnij aplikacje</string>
+    <string name="short_description_of_group">Krótki opis grupy!</string>
+    <string name="slide_cancel">%s (Przesuń w lewo, aby anulować)</string>
+    <string name="status">Status</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab_title_call">Rozmowy</string>
+    <string name="tab_title_chat">Czaty</string>
+    <string name="tab_title_group">Grupy</string>
+    <string name="type_your_message">Wpisz swoją wiadomość</string>
+    <string name="updated">Zaktualizowano!</string>
+    <string name="validation_req_country">Wybierz kod kraju!</string>
+    <string name="validation_req_description">Podaj tej grupie krótki opis</string>
+    <string name="validation_req_name">Nazwa użytkownika nie może być pusta</string>
+    <string name="validation_req_participant">Nie wybrano uczestników</string>
+    <string name="validation_req_phone">Wpisz numer telefonu!</string>
+    <string name="validation_req_phone_valid">Wprowadź poprawny numer telefonu</string>
+    <string name="validation_req_status">Status nie może być pusty</string>
+    <string name="validation_req_username">Nazwa nie może być pusta</string>
+    <string name="verification_cancel_message">Weryfikacja jest w toku! czy chcesz anulować i wrócić??</string>
+    <string name="verification_cancel_title">Anuluj weryfikację</string>
+    <string name="verification_code">Kod weryfikacyjny</string>
+    <string name="video">Wideo</string>
+    <string name="video_calling">Połączenia głosowe</string>
+    <string name="video_calling_in">Przychodzące połączenie wideo</string>
+    <string name="view_all">Zobacz Wszystko</string>
+    <string name="voice_calling">Połączenia głosowe</string>
+    <string name="voice_calling_in">Przychodzące połączenie głosowe</string>
+    <string name="yes">Tak</string>
+    <string name="your_name">Twoje imię</string>
+</resources>

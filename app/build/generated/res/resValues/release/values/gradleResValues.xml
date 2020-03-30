@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-4108429589092354~2221808541</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-4108429589092354/4464828501</string>
+    <string name="app_name" translatable="false">PyChat</string>
+    <string name="authority" translatable="false">personal.droid.pychat.fileprovider</string>
+
+    <color name="colorAccent">#1A237E</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+
+    <string name="geo_api_key" translatable="false">AIzaSyAhYq6VxQIeZfL0Ml1Vb6vLe50A3klbZpg</string>
+    <string name="sinch_app_environment" translatable="false">clientapi.sinch.com</string>
+    <string name="sinch_app_key" translatable="false">d561728e-a224-4c39-9810-17a630f2eb87</string>
+    <string name="sinch_app_secret" translatable="false">PvxhUGMai0uwtJPdq9OADA==</string>
+    <string name="support_email" translatable="false">guptashrinath9@gmail.com</string>
+
+</resources>

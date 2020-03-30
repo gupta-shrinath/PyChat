@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075329112751",
+    "firebase_url": "https://pychat-ccc65.firebaseio.com",
+    "project_id": "pychat-ccc65",
+    "storage_bucket": "pychat-ccc65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075329112751:android:07a1ecbe39ccd904e6525a",
+        "android_client_info": {
+          "package_name": "personal.droid.pychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075329112751-a2mbthq75t49v6stskj85rq3ame8ptp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "personal.droid.pychat",
+            "certificate_hash": "9d27487f58b0716f1fc934b6c58c6d1d10907195"
+          }
+        },
+        {
+          "client_id": "1075329112751-4sv3n1nmkrearjm2unl7cvbk9jc8vm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJmqu7PMgkmsoTmO5o1fX5cHFMlNvAC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075329112751-4sv3n1nmkrearjm2unl7cvbk9jc8vm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+# Referenced at /home/droid/Projects/Android Projects/PyChat/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/droid/Projects/Android Projects/PyChat/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
+-keep class personal.droid.pychat.BaseApplication { <init>(); }

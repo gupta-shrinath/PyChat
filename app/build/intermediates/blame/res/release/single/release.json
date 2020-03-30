@@ -1,0 +1,1878 @@
+[
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_pychat_logo.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/pychat_logo.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_dark.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_dark.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_insert.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_insert.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_roboto_thin.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_empty_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/empty_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_sign_in_2.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_sign_in_2.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_close_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_ubuntu_light.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/ubuntu_light.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_videocam_dark_gray_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_videocam_dark_gray_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_ubuntu_regular.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/ubuntu_regular.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_roboto_regula.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/roboto_regula.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_profile_edit.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_profile_edit.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_done_white.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_done_white.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_user_media.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_user_media.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/menu_menu_chat_cab.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/menu/menu_chat_cab.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_noti_icon.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/noti_icon.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_recording.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_recording.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_image.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_image.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_partial_message_status_view.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/partial_message_status_view.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_file_download_40dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_file_download_40dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_contact_number.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_contact_number.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_switch_camera_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_switch_camera_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_insert_emoticon_gray_40dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_insert_emoticon_gray_40dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_text.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_text.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_menu_user.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_menu_user.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_ubuntu_bold.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/ubuntu_bold.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_play_circle_outline.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_play_circle_outline.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_gray.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_gray.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_privacy.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_privacy.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_roboto_light.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/roboto_light.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_thumb_up_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_thumb_up_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_image.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_image.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_confirmation.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_confirmation.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_videocam_black_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_user_select.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_user_select.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_empty_view.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/empty_view.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_mail_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_mail_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_volume_on_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_volume_on_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_copy_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_copy_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_options.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_options.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_done_black.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_done_black.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_done_all_black.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_done_all_black.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_insert_64dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_insert_64dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_videocam_black_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_stop.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_stop.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_assignment_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_assignment_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_made_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_made_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_incoming_call_screen.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_incoming_call_screen.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_phone_dark_gray_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_phone_dark_gray_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_contact_perm.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_contact_perm.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_contact.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_contact.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_group_new.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_group_new.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_send.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_mic_off_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_mic_off_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_headset.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_headset.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_ring_blue.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/ring_blue.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_ubuntu_medium.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/ubuntu_medium.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_dialog_v_card_detail.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/dialog_v_card_detail.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_group_select_members.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_group_select_members.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_document.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_document.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_share_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_share_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_person_add.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_person_add.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/xml_file_paths.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_main_recycler.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_main_recycler.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_videocam_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_videocam_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_typing.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_typing.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_pychat_placeholder.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/pychat_placeholder.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_ring_green.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/ring_green.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_videocam_black_40dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_videocam_black_40dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_image_viewer.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_image_viewer.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_audiotrack_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_audiotrack_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_keyboard_arrow_left_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_keyboard_arrow_left_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_sign_in_1.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_sign_in_1.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_media_summary.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_media_summary.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_videocam_black_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_adapter_item_user.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/adapter_item_user.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_video.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_video.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_country_spinner.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_country_spinner.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_videocam_black_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_user_sub_media.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_user_sub_media.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_delete_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_delete_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_location.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_location.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_message_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_message_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_vertical_gradient.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/vertical_gradient.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_user_detail.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_user_detail.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_user_detail.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_user_detail.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_vertical_gradient_black.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/vertical_gradient_black.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_videocam_black_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_received_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_received_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_share.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_white.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_white.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_people_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_people_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_delete_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_delete_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_missed_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_missed_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_vertical_gradient_black_reverse.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/vertical_gradient_black_reverse.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_volume_off_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_volume_off_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_keyboard_arrow_left_white_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_add_circle.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_forward_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_forward_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_footer_view.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/footer_view.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/raw_progress_tone.wav.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/raw/progress_tone.wav"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_made_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_made_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_video_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_video_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_phone_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_phone_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_chats.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_chats.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_keyboard_voice_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_play_circle_outline.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_play_circle_outline.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_copy_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_copy_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_phone.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_file_download_accent_36dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_file_download_accent_36dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_selected_user.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_selected_user.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_keyboard_arrow_right_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_keyboard_arrow_right_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_keyboard_voice_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_keyboard_voice_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_call_green_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_mic_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_power_settings_new_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_power_settings_new_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_contact_perm.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_contact_perm.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_location.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_location.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_close_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_forward_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_forward_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_headset.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_headset.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_thumb_up_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_group_select.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_group_select.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/raw_phone_loud1.mp3.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/raw/phone_loud1.mp3"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_camera_white.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_camera_white.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_insert_emoticon_gray_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_mail_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_add_circle.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_add_circle.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_file_download_accent_36dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_menu_user_invite.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_menu_user_invite.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_call_missed_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_waiting.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_waiting.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_mic_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_mic_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_audiotrack_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_message_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_message_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_file_download_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_file_download_40dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_assignment_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_power_settings_new_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_green_pickup.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_green_pickup.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_insert_64dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_insert_64dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_video_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_video_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_done_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_phone.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_share.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_content_main.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_mic_white_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_mic_white_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_camera_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_camera_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_share_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_call_screen.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_call_screen.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_remove_circle_outline_dark_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_remove_circle_outline_dark_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-ldpi_ic_people_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-ldpi/ic_people_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_end_black_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_end_black_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_red_hangup.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_red_hangup.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_switch_camera_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_switch_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_remove_circle_outline_dark_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_insert.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_insert.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_location.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_image.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_image.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_videocam_dark_gray_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_videocam_dark_gray_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_keyboard_arrow_left_white_36dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_keyboard_arrow_left_white_36dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_call_green_24dp.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_call_green_24dp.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_call_received_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_call_received_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_roboto_bold.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_adapter_item_log_call.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/adapter_item_log_call.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_item_message_attachment_audio.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/item_message_attachment_audio.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_done_white.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_done_white.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_waiting.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_person_add.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_person_add.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_call_end_black_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-hdpi_ic_volume_on_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-hdpi/ic_volume_on_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_fragment_selection_header.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/fragment_selection_header.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/font_roboto_medium.ttf.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_send.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_volume_off_white_24dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_stop.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/layout_activity_splash.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_done_all_black.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-xhdpi/ic_done_all_black.png"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable_round_blue.xml.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/src/main/res/drawable/round_blue.xml"
+    },
+    {
+        "merged": "/home/droid/Projects/Android Projects/PyChat/app/build/intermediates/res/merged/release/drawable-mdpi_ic_videocam_black_40dp.png.flat",
+        "source": "/home/droid/Projects/Android Projects/PyChat/app/build/generated/res/pngs/release/drawable-mdpi/ic_videocam_black_40dp.png"
+    }
+]

@@ -1,0 +1,572 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="personal.droid.pychat"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:6:5-77
+11-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:6:22-74
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:7:5-80
+12-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.READ_CONTACTS" />
+13-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:8:5-72
+13-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:8:22-69
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:9:5-81
+14-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.CALL_PHONE" />
+15-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:10:5-69
+15-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:10:22-66
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:11:5-67
+16-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:12:5-65
+17-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:12:22-62
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:13:5-79
+18-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:14:5-71
+19-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:14:22-68
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:15:5-66
+20-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:15:22-63
+21    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+21-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:16:5-80
+21-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:16:22-77
+22    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:17:5-75
+22-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:17:22-72
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:18:5-68
+23-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:18:22-65
+24    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+24-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:19:5-75
+24-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:19:22-72
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:9:5-79
+25-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:9:22-76
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+26-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:10:5-76
+26-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:10:22-73
+27    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+27-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:26:5-82
+27-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:26:22-79
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+32
+33    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+33-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:5-110
+33-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:26:22-107
+34
+35    <application
+35-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:21:5-130:19
+36        android:name="personal.droid.pychat.BaseApplication"
+36-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:22:9-61
+37        android:allowBackup="true"
+37-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:23:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/165cbaa71496cc1fc503c3c3501dd927/core-1.1.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:24:9-43
+41        android:label="@string/app_name"
+41-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:25:9-41
+42        android:supportsRtl="true"
+42-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:27:9-35
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme"
+44-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:28:9-40
+45        android:usesCleartextTraffic="true" >
+45-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:26:9-44
+46        <activity
+46-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:29:9-34:56
+47            android:name="personal.droid.pychat.activities.MainActivity"
+47-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:30:13-73
+48            android:launchMode="singleTop"
+48-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:31:13-43
+49            android:screenOrientation="portrait"
+49-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:32:13-49
+50            android:windowSoftInputMode="stateHidden|adjustResize" />
+50-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:33:13-67
+51        <activity
+51-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:35:9-44:20
+52            android:name="personal.droid.pychat.activities.ChatActivity"
+52-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:36:13-73
+53            android:parentActivityName="personal.droid.pychat.activities.MainActivity"
+53-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:37:13-87
+54            android:screenOrientation="portrait"
+54-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:38:13-49
+55            android:windowSoftInputMode="stateHidden|adjustResize" >
+55-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:40:13-67
+56            <meta-data
+56-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:41:13-43:81
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:42:17-63
+58                android:value="personal.droid.pychat.activities.MainActivity" />
+58-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:43:17-78
+59        </activity>
+60        <activity android:name="personal.droid.pychat.activities.ImageViewerActivity" />
+60-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:45:9-89
+60-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:45:19-86
+61
+62        <service
+62-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:47:9-49:38
+63            android:name="personal.droid.pychat.services.FirebaseChatService"
+63-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:48:13-78
+64            android:enabled="true" />
+64-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:49:13-35
+65        <service android:name="personal.droid.pychat.services.MyFirebaseMessagingService" >
+65-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:50:9-54:19
+65-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:50:18-90
+66            <intent-filter>
+66-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:51:13-53:29
+67                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+67-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:52:17-78
+67-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:52:25-75
+68            </intent-filter>
+69        </service>
+70
+71        <receiver
+71-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:56:9-62:20
+72            android:name="personal.droid.pychat.receivers.ConnectivityReceiver"
+72-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:57:13-80
+73            android:enabled="true" >
+73-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:58:13-35
+74            <intent-filter>
+74-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:59:13-61:29
+75                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+75-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:60:17-79
+75-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:60:25-76
+76            </intent-filter>
+77        </receiver>
+78
+79        <!-- https://developers.google.com/places/android-sdk/signup -->
+80        <meta-data
+80-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:65:9-67:51
+81            android:name="com.google.android.geo.API_KEY"
+81-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:66:13-58
+82            android:value="@string/geo_api_key" />
+82-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:67:13-48
+83
+84        <!-- https://developers.google.com/admob/android/quick-start#update_your_androidmanifestxml -->
+85        <meta-data
+85-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:70:9-72:52
+86            android:name="com.google.android.gms.ads.APPLICATION_ID"
+86-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:71:13-69
+87            android:value="@string/admob_app_id" />
+87-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:72:13-49
+88
+89        <provider
+89-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:74:9-83:20
+90            android:name="personal.droid.pychat.utils.MyFileProvider"
+90-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:75:13-70
+91            android:authorities="@string/authority"
+91-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:76:13-52
+92            android:exported="false"
+92-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:77:13-37
+93            android:grantUriPermissions="true" >
+93-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:78:13-47
+94            <meta-data
+94-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:80:13-82:54
+95                android:name="android.support.FILE_PROVIDER_PATHS"
+95-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:81:17-67
+96                android:resource="@xml/file_paths" />
+96-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:82:17-51
+97        </provider>
+98
+99        <activity
+99-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:85:9-89:70
+100            android:name="personal.droid.pychat.activities.ContactViewerActivity"
+100-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:86:13-82
+101            android:screenOrientation="portrait"
+101-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:87:13-49
+102            android:windowSoftInputMode="stateHidden|adjustResize" />
+102-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:89:13-67
+103        <activity
+103-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:90:9-94:70
+104            android:name="personal.droid.pychat.activities.ChatDetailActivity"
+104-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:91:13-79
+105            android:screenOrientation="portrait"
+105-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:92:13-49
+106            android:windowSoftInputMode="stateHidden|adjustResize" />
+106-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:94:13-67
+107        <activity
+107-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:95:9-100:70
+108            android:name="personal.droid.pychat.activities.SignInActivity"
+108-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:96:13-75
+109            android:screenOrientation="portrait"
+109-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:97:13-49
+110            android:theme="@style/AppTheme.NoTitle"
+110-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:99:13-52
+111            android:windowSoftInputMode="stateHidden|adjustResize" />
+111-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:100:13-67
+112        <activity
+112-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:101:9-104:52
+113            android:name="personal.droid.pychat.activities.CallScreenActivity"
+113-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:102:13-79
+114            android:screenOrientation="portrait" />
+114-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:104:13-49
+115        <activity
+115-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:105:9-108:52
+116            android:name="personal.droid.pychat.activities.IncomingCallScreenActivity"
+116-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:106:13-87
+117            android:screenOrientation="portrait" />
+117-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:108:13-49
+118        <activity
+118-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:109:9-121:20
+119            android:name="personal.droid.pychat.activities.SplashActivity"
+119-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:110:13-75
+120            android:screenOrientation="portrait"
+120-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:112:13-49
+121            android:theme="@style/AppTheme.NoTitle"
+121-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:113:13-52
+122            android:windowSoftInputMode="stateHidden|adjustResize" >
+122-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:114:13-67
+123            <intent-filter>
+123-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:115:13-120:29
+124                <action android:name="android.intent.action.VIEW" />
+124-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:116:17-69
+124-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:116:25-66
+125                <action android:name="android.intent.action.MAIN" />
+125-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:117:17-69
+125-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:117:25-66
+126
+127                <category android:name="android.intent.category.LAUNCHER" />
+127-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:119:17-77
+127-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:119:27-74
+128            </intent-filter>
+129        </activity>
+130
+131        <service
+131-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:123:9-125:40
+132            android:name="personal.droid.pychat.services.FetchMyUsersService"
+132-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:124:13-78
+133            android:exported="false" />
+133-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:125:13-37
+134        <service
+134-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:126:9-129:40
+135            android:name="personal.droid.pychat.services.SinchService"
+135-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:127:13-71
+136            android:enabled="true"
+136-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:128:13-35
+137            android:exported="false" />
+137-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:129:13-37
+138        <service android:name="com.sinch.android.rtc.internal.client.fcm.InstanceIDTokenService" >
+138-->[:sinch-android-rtc:3.12.5] /home/droid/.gradle/caches/transforms-2/files-2.1/1c9cbab4a1b68d1eb492f8eb65887178/jetified-sinch-android-rtc-3.12.5/AndroidManifest.xml:12:9-16:19
+138-->[:sinch-android-rtc:3.12.5] /home/droid/.gradle/caches/transforms-2/files-2.1/1c9cbab4a1b68d1eb492f8eb65887178/jetified-sinch-android-rtc-3.12.5/AndroidManifest.xml:12:18-97
+139            <intent-filter>
+139-->[:sinch-android-rtc:3.12.5] /home/droid/.gradle/caches/transforms-2/files-2.1/1c9cbab4a1b68d1eb492f8eb65887178/jetified-sinch-android-rtc-3.12.5/AndroidManifest.xml:13:13-15:29
+140                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+140-->[:sinch-android-rtc:3.12.5] /home/droid/.gradle/caches/transforms-2/files-2.1/1c9cbab4a1b68d1eb492f8eb65887178/jetified-sinch-android-rtc-3.12.5/AndroidManifest.xml:14:17-80
+140-->[:sinch-android-rtc:3.12.5] /home/droid/.gradle/caches/transforms-2/files-2.1/1c9cbab4a1b68d1eb492f8eb65887178/jetified-sinch-android-rtc-3.12.5/AndroidManifest.xml:14:25-77
+141            </intent-filter>
+142        </service>
+143
+144        <activity
+144-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:14:9-20:20
+145            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+145-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:15:13-91
+146            android:exported="false"
+146-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:16:13-37
+147            android:label="@string/places_autocomplete_label"
+147-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:17:13-62
+148            android:theme="@style/PlacesAutocompleteOverlay"
+148-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:18:13-61
+149            android:windowSoftInputMode="adjustResize" >
+149-->[com.google.android.libraries.places:places:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/a67af45c3d3ea9029f59b97dbce2474e/jetified-places-2.2.0/AndroidManifest.xml:19:13-55
+150        </activity>
+151
+152        <service
+152-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:17:9-23:19
+153            android:name="com.google.firebase.components.ComponentDiscoveryService"
+153-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:18:13-84
+154            android:directBootAware="true"
+154-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+155            android:exported="false" >
+155-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:19:13-37
+156            <meta-data
+156-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:20:13-22:85
+157                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+157-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:21:17-111
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-firestore:21.4.1] /home/droid/.gradle/caches/transforms-2/files-2.1/a7fe0cd8852249b0ac508622994c13c8/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:22:17-82
+159            <meta-data
+159-->[com.google.firebase:firebase-database:19.2.1] /home/droid/.gradle/caches/transforms-2/files-2.1/3fe1f26d79775c1536266cb0263213aa/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+160                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+160-->[com.google.firebase:firebase-database:19.2.1] /home/droid/.gradle/caches/transforms-2/files-2.1/3fe1f26d79775c1536266cb0263213aa/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-database:19.2.1] /home/droid/.gradle/caches/transforms-2/files-2.1/3fe1f26d79775c1536266cb0263213aa/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+162            <meta-data
+162-->[com.google.firebase:firebase-storage:19.1.1] /home/droid/.gradle/caches/transforms-2/files-2.1/7f860c25900ca73d1a48b5d17703e5e2/jetified-firebase-storage-19.1.1/AndroidManifest.xml:33:13-35:85
+163                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+163-->[com.google.firebase:firebase-storage:19.1.1] /home/droid/.gradle/caches/transforms-2/files-2.1/7f860c25900ca73d1a48b5d17703e5e2/jetified-firebase-storage-19.1.1/AndroidManifest.xml:34:17-107
+164                android:value="com.google.firebase.components.ComponentRegistrar" />
+164-->[com.google.firebase:firebase-storage:19.1.1] /home/droid/.gradle/caches/transforms-2/files-2.1/7f860c25900ca73d1a48b5d17703e5e2/jetified-firebase-storage-19.1.1/AndroidManifest.xml:35:17-82
+165            <meta-data
+165-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:36:13-38:85
+166                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+166-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:37:17-109
+167                android:value="com.google.firebase.components.ComponentRegistrar" />
+167-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:38:17-82
+168            <meta-data
+168-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:38:13-40:85
+169                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+169-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:39:17-119
+170                android:value="com.google.firebase.components.ComponentRegistrar" />
+170-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:40:17-82
+171            <meta-data
+171-->[com.google.firebase:firebase-crashlytics:17.0.0-beta02] /home/droid/.gradle/caches/transforms-2/files-2.1/303ae33ed3b93320f2d4193b02e22181/jetified-firebase-crashlytics-17.0.0-beta02/AndroidManifest.xml:16:13-18:85
+172                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+172-->[com.google.firebase:firebase-crashlytics:17.0.0-beta02] /home/droid/.gradle/caches/transforms-2/files-2.1/303ae33ed3b93320f2d4193b02e22181/jetified-firebase-crashlytics-17.0.0-beta02/AndroidManifest.xml:17:17-115
+173                android:value="com.google.firebase.components.ComponentRegistrar" />
+173-->[com.google.firebase:firebase-crashlytics:17.0.0-beta02] /home/droid/.gradle/caches/transforms-2/files-2.1/303ae33ed3b93320f2d4193b02e22181/jetified-firebase-crashlytics-17.0.0-beta02/AndroidManifest.xml:18:17-82
+174            <meta-data
+174-->[com.google.firebase:firebase-datatransport:17.0.3] /home/droid/.gradle/caches/transforms-2/files-2.1/965570886869806f192b521ae6f633ae/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+175                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+175-->[com.google.firebase:firebase-datatransport:17.0.3] /home/droid/.gradle/caches/transforms-2/files-2.1/965570886869806f192b521ae6f633ae/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[com.google.firebase:firebase-datatransport:17.0.3] /home/droid/.gradle/caches/transforms-2/files-2.1/965570886869806f192b521ae6f633ae/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+177            <meta-data
+177-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/2c64ec9f3050a706ec977d184d2cfd15/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:30:13-32:85
+178                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+178-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/2c64ec9f3050a706ec977d184d2cfd15/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:31:17-139
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[com.google.android.gms:play-services-measurement-api:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/2c64ec9f3050a706ec977d184d2cfd15/jetified-play-services-measurement-api-17.2.3/AndroidManifest.xml:32:17-82
+180            <meta-data
+180-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:32:13-34:85
+181                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+181-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:33:17-96
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:34:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-installations:16.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/47a563bd08257f0daa88103b5bd42233/jetified-firebase-installations-16.1.0/AndroidManifest.xml:17:13-19:85
+184                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+184-->[com.google.firebase:firebase-installations:16.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/47a563bd08257f0daa88103b5bd42233/jetified-firebase-installations-16.1.0/AndroidManifest.xml:18:17-127
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-installations:16.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/47a563bd08257f0daa88103b5bd42233/jetified-firebase-installations-16.1.0/AndroidManifest.xml:19:17-82
+186        </service>
+187
+188        <activity
+188-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:24:9-31:50
+189            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+189-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:25:13-85
+190            android:excludeFromRecents="true"
+190-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:26:13-46
+191            android:exported="true"
+191-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:27:13-36
+192            android:launchMode="singleTask"
+192-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:28:13-44
+193            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+193-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:29:13-102
+194            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+194-->[com.google.firebase:firebase-auth:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/225f4fc081d68eadcce43c18a66c457e/jetified-firebase-auth-19.3.0/AndroidManifest.xml:30:13-72
+195        <!--
+196             FirebaseMessagingService performs security checks at runtime,
+197             but set to not exported to explicitly avoid allowing another app to call it.
+198        -->
+199        <service
+199-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:28:9-34:19
+200            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+200-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:29:13-82
+201            android:exported="false" >
+201-->[com.google.firebase:firebase-messaging:20.1.3] /home/droid/.gradle/caches/transforms-2/files-2.1/f220c8fef26fe516d8f15fce8c3212d3/jetified-firebase-messaging-20.1.3/AndroidManifest.xml:30:13-37
+202            <intent-filter android:priority="-500" >
+202-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:51:13-53:29
+203                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+203-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:52:17-78
+203-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:52:25-75
+204            </intent-filter>
+205        </service>
+206
+207        <provider
+207-->[com.kbeanie:multipicker:1.6] /home/droid/.gradle/caches/transforms-2/files-2.1/ff05b383c958cfe61f3292da0a2c1cc5/jetified-multipicker-1.6/AndroidManifest.xml:12:9-20:20
+208            android:name="com.kbeanie.multipicker.utils.AMPFileProvider"
+208-->[com.kbeanie:multipicker:1.6] /home/droid/.gradle/caches/transforms-2/files-2.1/ff05b383c958cfe61f3292da0a2c1cc5/jetified-multipicker-1.6/AndroidManifest.xml:13:13-73
+209            android:authorities="personal.droid.pychat.multipicker.fileprovider"
+209-->[com.kbeanie:multipicker:1.6] /home/droid/.gradle/caches/transforms-2/files-2.1/ff05b383c958cfe61f3292da0a2c1cc5/jetified-multipicker-1.6/AndroidManifest.xml:14:13-76
+210            android:exported="false"
+210-->[com.kbeanie:multipicker:1.6] /home/droid/.gradle/caches/transforms-2/files-2.1/ff05b383c958cfe61f3292da0a2c1cc5/jetified-multipicker-1.6/AndroidManifest.xml:15:13-37
+211            android:grantUriPermissions="true" >
+211-->[com.kbeanie:multipicker:1.6] /home/droid/.gradle/caches/transforms-2/files-2.1/ff05b383c958cfe61f3292da0a2c1cc5/jetified-multipicker-1.6/AndroidManifest.xml:16:13-47
+212            <meta-data
+212-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:80:13-82:54
+213                android:name="android.support.FILE_PROVIDER_PATHS"
+213-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:81:17-67
+214                android:resource="@xml/paths" />
+214-->/home/droid/Projects/Android Projects/PyChat/app/src/main/AndroidManifest.xml:82:17-51
+215        </provider>
+216
+217        <receiver
+217-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:37:9-44:20
+218            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+218-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:38:13-78
+219            android:exported="true"
+219-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:39:13-36
+220            android:permission="com.google.android.c2dm.permission.SEND" >
+220-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:40:13-73
+221            <intent-filter>
+221-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:41:13-43:29
+222                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+222-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:42:17-81
+222-->[com.google.firebase:firebase-iid:20.1.2] /home/droid/.gradle/caches/transforms-2/files-2.1/44082db1ddc81ed3efe6563502dd1feb/jetified-firebase-iid-20.1.2/AndroidManifest.xml:42:25-78
+223            </intent-filter>
+224        </receiver>
+225
+226        <provider
+226-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+227            android:name="com.google.firebase.provider.FirebaseInitProvider"
+227-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+228            android:authorities="personal.droid.pychat.firebaseinitprovider"
+228-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+229            android:exported="false"
+229-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+230            android:initOrder="100" /> <!-- Needs to be explicitly declared on P+ -->
+230-->[com.google.firebase:firebase-common:19.3.0] /home/droid/.gradle/caches/transforms-2/files-2.1/9e948c1589cbfe9a28849757975973c0/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+231        <uses-library
+231-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+232            android:name="org.apache.http.legacy"
+232-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+233            android:required="false" />
+233-->[com.google.android.gms:play-services-maps:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/e6c2d162097927f8eb4eeb6419249dd0/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+234
+235        <activity
+235-->[com.google.android.gms:play-services-base:17.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/5566a410b4b00edae7ebeff4dc9b512a/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+236            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+236-->[com.google.android.gms:play-services-base:17.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/5566a410b4b00edae7ebeff4dc9b512a/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+237            android:exported="false"
+237-->[com.google.android.gms:play-services-base:17.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/5566a410b4b00edae7ebeff4dc9b512a/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+238            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+238-->[com.google.android.gms:play-services-base:17.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/5566a410b4b00edae7ebeff4dc9b512a/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+239
+240        <receiver
+240-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:29:9-33:20
+241            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+241-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:30:13-85
+242            android:enabled="true"
+242-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:31:13-35
+243            android:exported="false" >
+243-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:32:13-37
+244        </receiver>
+245        <receiver
+245-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:34:9-42:20
+246            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+246-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:35:13-100
+247            android:enabled="true"
+247-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:36:13-35
+248            android:exported="true"
+248-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:37:13-36
+249            android:permission="android.permission.INSTALL_PACKAGES" >
+249-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:38:13-69
+250            <intent-filter>
+250-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:39:13-41:29
+251                <action android:name="com.android.vending.INSTALL_REFERRER" />
+251-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:17-79
+251-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:40:25-76
+252            </intent-filter>
+253        </receiver>
+254
+255        <service
+255-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:44:9-47:40
+256            android:name="com.google.android.gms.measurement.AppMeasurementService"
+256-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:45:13-84
+257            android:enabled="true"
+257-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:46:13-35
+258            android:exported="false" />
+258-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:47:13-37
+259        <service
+259-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:48:9-52:72
+260            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+260-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:49:13-87
+261            android:enabled="true"
+261-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:50:13-35
+262            android:exported="false"
+262-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:51:13-37
+263            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+263-->[com.google.android.gms:play-services-measurement:17.2.3] /home/droid/.gradle/caches/transforms-2/files-2.1/678cf5e48b28d908930a3b93b5feb572/jetified-play-services-measurement-17.2.3/AndroidManifest.xml:52:13-69
+264        <activity
+264-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:29:9-33:64
+265            android:name="com.google.android.gms.ads.AdActivity"
+265-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:30:13-65
+266            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+266-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:31:13-122
+267            android:exported="false"
+267-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:32:13-37
+268            android:theme="@android:style/Theme.Translucent" />
+268-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:33:13-61
+269
+270        <provider
+270-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:35:9-39:39
+271            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+271-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:36:13-76
+272            android:authorities="personal.droid.pychat.mobileadsinitprovider"
+272-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:37:13-73
+273            android:exported="false"
+273-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:38:13-37
+274            android:initOrder="100" />
+274-->[com.google.android.gms:play-services-ads-lite:19.0.1] /home/droid/.gradle/caches/transforms-2/files-2.1/2005e7a22766cddb2ff4674d801138bf/jetified-play-services-ads-lite-19.0.1/AndroidManifest.xml:39:13-36
+275
+276        <meta-data
+276-->[com.google.android.gms:play-services-basement:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/37da60dd9847ec4408e8111f94ed1a93/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+277            android:name="com.google.android.gms.version"
+277-->[com.google.android.gms:play-services-basement:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/37da60dd9847ec4408e8111f94ed1a93/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+278            android:value="@integer/google_play_services_version" />
+278-->[com.google.android.gms:play-services-basement:17.0.0] /home/droid/.gradle/caches/transforms-2/files-2.1/37da60dd9847ec4408e8111f94ed1a93/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+279
+280        <service
+280-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+281            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+281-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+282            android:exported="false" >
+282-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+283            <meta-data
+283-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+284                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+284-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+285                android:value="cct" />
+285-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/077fbc7c6516a787925a24b32ae7cd10/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+286        </service>
+287        <service
+287-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+288            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+288-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+289            android:exported="false"
+289-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+290            android:permission="android.permission.BIND_JOB_SERVICE" >
+290-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+291        </service>
+292
+293        <receiver
+293-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+294            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+294-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+295            android:exported="false" />
+295-->[com.google.android.datatransport:transport-runtime:2.2.0] /home/droid/.gradle/caches/transforms-2/files-2.1/91efe842979e9c9254f5660abe3f1af6/jetified-transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+296
+297        <provider
+297-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/6a3695cf906b1780fad76a39b4d5aec9/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+298            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+298-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/6a3695cf906b1780fad76a39b4d5aec9/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+299            android:authorities="personal.droid.pychat.lifecycle-process"
+299-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/6a3695cf906b1780fad76a39b4d5aec9/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+300            android:exported="false"
+300-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/6a3695cf906b1780fad76a39b4d5aec9/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+301            android:multiprocess="true" />
+301-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/droid/.gradle/caches/transforms-2/files-2.1/6a3695cf906b1780fad76a39b4d5aec9/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+302    </application>
+303
+304</manifest>

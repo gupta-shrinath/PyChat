@@ -1,0 +1,100 @@
+apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+
+repositories {
+    google()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+android {
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+
+    }
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    defaultConfig {
+        applicationId "personal.droid.pychat"
+
+        resValue 'string', "app_name", "PyChat"
+        resValue 'string', "support_email", "guptashrinath9@gmail.com"
+        resValue 'string', "geo_api_key", "AIzaSyAhYq6VxQIeZfL0Ml1Vb6vLe50A3klbZpg"
+        resValue 'string', "admob_app_id", "ca-app-pub-4108429589092354~2221808541"
+        resValue 'string', "admob_banner_id", "ca-app-pub-4108429589092354/4464828501"
+        resValue 'string', "sinch_app_key", "d561728e-a224-4c39-9810-17a630f2eb87"
+        resValue 'string', "sinch_app_secret", "PvxhUGMai0uwtJPdq9OADA=="
+        resValue 'string', "sinch_app_environment", "clientapi.sinch.com"
+        resValue 'string', "authority", applicationId + ".fileprovider"
+        resValue 'color', "colorPrimary", "#2196F3"
+        resValue 'color', "colorPrimaryDark", "#1976D2"
+        resValue 'color', "colorAccent", "#1A237E"
+
+        minSdkVersion 16
+        targetSdkVersion 29
+        versionCode 2
+        versionName "2.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+dependencies {
+    implementation(name: 'sinch-android-rtc', version: '3.12.5', ext: 'aar')
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation('com.googlecode.ez-vcard:ez-vcard:0.10.4') {
+        exclude group: 'org.freemarker'
+    }
+
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.google.firebase:firebase-firestore:21.4.1'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    testImplementation 'junit:junit:4.13'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    implementation 'com.google.firebase:firebase-core:17.2.3'
+    implementation 'com.google.firebase:firebase-database:19.2.1'
+    implementation 'com.google.firebase:firebase-storage:19.1.1'
+    implementation 'com.google.firebase:firebase-ads:19.0.1'
+    implementation 'com.google.firebase:firebase-auth:19.3.0'
+    implementation 'com.google.firebase:firebase-messaging:20.1.3'
+    implementation 'com.google.firebase:firebase-analytics:17.2.3'
+    implementation 'com.google.firebase:firebase-crashlytics:17.0.0-beta02'
+
+
+    implementation 'com.google.android.libraries.places:places:2.2.0'
+    implementation 'com.google.android.gms:play-services-places:17.0.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.eyalbira.loadingdots:loading-dots:1.0.2'
+    implementation 'com.iceteck.silicompressorr:silicompressor:2.1'
+    implementation 'com.kbeanie:multipicker:1.6@aar'
+    implementation 'com.github.chrisbanes:PhotoView:2.0.0'
+    implementation 'com.vanniktech:emoji-google:0.6.0'
+    implementation 'com.mxn.soul:flowingdrawer-core:2.1.0'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'com.google.android.material:material:1.1.0'
+}
+

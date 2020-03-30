@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"OK"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"NON"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"OUI"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="add_member_message">Êtes-vous sûr de vouloir ajouter %s à ce groupe?</string>
+    <string name="add_member_title">Ajouter membre(s)</string>
+    <string name="add_more">+ Ajouter</string>
+    <string name="audio">Audio</string>
+    <string name="back">Retour</string>
+    <string name="button_allow" ns2:keep="@string/button_allow">Autoriser</string>
+    <string name="button_deny" ns2:keep="@string/button_deny">Refuser</string>
+    <string name="change_number">Changer le numéro?</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilité des services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string name="confirm">Confirmer</string>
+    <string name="confirm_phone">Un code unique sera envoyé sur ce numéro! Continuer avec ce numéro?</string>
+    <string name="contact">Contact</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="content_privacy">Topemi est produit de la société KAAPP SARLU, immatriculée au Congo Kinshasa sous le n° KNM/RCCM/17-B-00253 dont le bureau est au 309 Avenue Fresias, Commune de LIMETE 12 rue, à Kinshasa RD Congo.
+
+Cette politique de confidentialité a été compilée afin de mieux servir ceux qui sont concernés par la façon dont leurs informations personnelles identifiables (PII) sont utilisées en ligne. Les PII, tels que décrits dans la législation américaine sur la confidentialité et la sécurité de l\'information, sont des informations qui peuvent être utilisées seules ou avec d\'autres informations pour identifier, contacter ou localiser une seule personne, ou pour identifier une personne dans son contexte.
+
+Ces conditions d\'utilisation régissent votre utilisation de notre application; En utilisant notre application, vous acceptez les présentes conditions d\'utilisation. Si vous n\'êtes pas d\'accord avec ces conditions d\'utilisation ou avec une partie de ces conditions d\'utilisation, vous ne devez pas utiliser notre application.</string>
+    <string name="create_group">Créer un groupe</string>
+    <string name="delete_chat_message">Voulez-vous supprimer les chats sélectionnés?</string>
+    <string name="delete_chat_title">Supprimer le chat</string>
+    <string name="delete_msg_message">Continuer à supprimer les messages sélectionnés?</string>
+    <string name="delete_msg_title">Supprimer des messages</string>
+    <string name="dial_permission">Pour composer automatiquement un numéro, nous avons besoin de cette permission</string>
+    <string name="docs">Audio</string>
+    <string name="document">Document</string>
+    <string name="done">TERMINÉ</string>
+    <string name="download_message">Download %s now</string>
+    <string name="edit">Modifier</string>
+    <string name="empty_contact_list_for_group">Vous n\'avez pas suffisamment d\'amis\npour être dans un groupe</string>
+    <string name="empty_group_chat_list">Vos discussions de groupe apparaissent ici\nDémarrez le chat en sélectionnant un groupe.</string>
+    <string name="empty_log_call_list">Vos appels apparaissent ici\nPassez un appel en sélectionnant un utilisateur.</string>
+    <string name="empty_text_chat_list">Vos conversations apparaissent ici\nLancez le chat en sélectionnant un utilisateur.</string>
+    <string name="err_upload_image">Impossible de télécharger l\'image.</string>
+    <string name="err_upload_img">Impossible de télécharger l\'image.</string>
+    <string name="error_create_user">Quelque chose s\'est mal passé, impossible de créer l\'utilisateur.</string>
+    <string name="error_detail">Quelque chose a mal tourné%s</string>
+    <string name="error_request">Unable to process request at this time</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Divers"</string>
+    <string name="file_not_found">Fichier introuvable!\nLe fichier est soit déplacé, supprimé ou renommé.</string>
+    <string name="gave_miss">Vous avez manqué un appel</string>
+    <string name="get_image_camera">Caméra</string>
+    <string name="get_image_gallery">Galerie</string>
+    <string name="get_image_title">Choisissez une image</string>
+    <string name="group_created">Group created</string>
+    <string name="group_info">Infons du groupe</string>
+    <string name="group_participants_error">Impossible de charger tous les membres du groupe. Veuillez rafraîchir vos utilisateurs, puis revérifier.</string>
+    <string name="hint_group_name">Nom de groupe</string>
+    <string name="hint_phone">Votre numéro de téléphone</string>
+    <string name="hint_search">Chercher</string>
+    <string name="image">Image</string>
+    <string name="image_updated">Image de profil mise à jour</string>
+    <string name="invitation_message">Hey, j\'utilise %s!, Application de discussion, venez me rejoindre ici.\nhttps://play.google.com/store/apps/details?id=%s</string>
+    <string name="invitation_share_title">Partager en utilisant..</string>
+    <string name="invitation_title">%s Invitation</string>
+    <string name="invite_friends">Inviter des amis…</string>
+    <string name="invite_friends_message">Les contacts suivants sont manquants</string>
+    <string name="invite_friends_title">Inviter des amis</string>
+    <string name="invite_short">inviter</string>
+    <string name="just_moment">Juste un moment..</string>
+    <string name="location">Emplacement</string>
+    <string name="logging_in">Connectez-vous!</string>
+    <string name="logout">Logout</string>
+    <string name="logout_message">Êtes-vous sûr de vouloir vous déconnecter?</string>
+    <string name="logout_title">Déconnexion</string>
+    <string name="media">Médias</string>
+    <string name="member_added">Membres ajoutés</string>
+    <string name="member_count">%d membre(s)</string>
+    <string name="member_removed">Membre retiré</string>
+    <string name="message_copied">Messages copiés</string>
+    <string name="message_otp">Nous vous enverrons SMS de confirmation.</string>
+    <string name="mute_notifications">Notifications muettes</string>
+    <string name="name">nombre</string>
+    <string name="no">Non</string>
+    <string name="no_groups">Pas de groupe actuellement\nCréez un nouveau groupe pour commencer.</string>
+    <string name="no_members">Aucun nouveau membre à ajouter</string>
+    <string name="otp_sending">Envoi du sms</string>
+    <string name="otp_sending_msg">Un code de vérification est envoyé à: \n %s</string>
+    <string name="otp_sent">Veuillez saisir le code de vérification envoyé à %s \n</string>
+    <string name="otp_verifying">Vérification du code</string>
+    <string name="otp_verifying_msg">Vérification du code…</string>
+    <string name="participants_0">Participants (0)</string>
+    <string name="participants_count">Participants (%d)</string>
+    <string name="permission_mic">Cette application nécessite l\'autorisation d\'utiliser votre microphone pour fonctionner correctement.</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Effacer la recherche"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Rechercher"</string>
+    <string name="places_autocomplete_clear_button">Effacer la recherche</string>
+    <string name="places_autocomplete_label">Choisir un lieu</string>
+    <string name="places_autocomplete_no_results_for_query">Aucun résultat pour \"%1$s\"</string>
+    <string name="places_autocomplete_search_hint">Rechercher</string>
+    <string name="places_cancel">Annuler</string>
+    <string name="places_powered_by_google">Fourni par Google</string>
+    <string name="places_search_error">Impossible de charger les résultats de recherche.</string>
+    <string name="places_try_again">Réessayer</string>
+    <string name="privacy_policy">Confidentialité</string>
+    <string name="rate_app">Evaluer</string>
+    <string name="recodring">Enregistrement…</string>
+    <string name="recording_cancelled">Enregistrement annulé</string>
+    <string name="remove_user_message">Êtes-vous sûr de vouloir supprimer %s de ce groupe?</string>
+    <string name="remove_user_title">Supprimer l\'utilisateur</string>
+    <string name="removed_from_group">Vous avez été retiré de ce groupe</string>
+    <string name="resend">Renvoyer?</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Rechercher"</string>
+    <string name="selected_count">%d sélectionnés</string>
+    <string name="share_app">Partager</string>
+    <string name="short_description_of_group">Brève description du groupe!</string>
+    <string name="slide_cancel">%s (Glisser à gauche pour annuler)</string>
+    <string name="status">Statut</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab_title_call">Appels</string>
+    <string name="tab_title_chat">Disc.</string>
+    <string name="tab_title_group">Groupes</string>
+    <string name="type_your_message">Tapez votre message</string>
+    <string name="updated">Actualisé!</string>
+    <string name="validation_req_country">Sélectionnez le code pays!</string>
+    <string name="validation_req_description">Donnez à ce groupe une courte description</string>
+    <string name="validation_req_name">Le nom d\'utilisateur ne peut pas être vide</string>
+    <string name="validation_req_participant">Aucun participant sélectionné</string>
+    <string name="validation_req_phone">Entrez le numéro de téléphone!</string>
+    <string name="validation_req_phone_valid">Entrez un numéro de téléphone valide</string>
+    <string name="validation_req_status">Le statut ne peut pas être vide</string>
+    <string name="validation_req_username">Votre nom ne peut pas être vide</string>
+    <string name="verification_cancel_message">La vérification est en cours! Voulez-vous annuler et revenir en arrière?</string>
+    <string name="verification_cancel_title">Annuler la vérification</string>
+    <string name="verification_code">Code de vérification</string>
+    <string name="video">Vidéo</string>
+    <string name="video_calling">Appel vidéo</string>
+    <string name="video_calling_in">Appel vidéo entrant</string>
+    <string name="view_all">Voir tout</string>
+    <string name="voice_calling">Appel vocal</string>
+    <string name="voice_calling_in">Appel vocal entrant</string>
+    <string name="yes">Oui</string>
+    <string name="your_name">Votre nom</string>
+</resources>
