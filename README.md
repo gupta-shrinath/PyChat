@@ -39,10 +39,12 @@
     * [SinchAPI](https://download.sinch.com/android/3.17.4/sinch-android-rtc-3.17.4.zip)
 
 # Screenshots
-![AppScreen]
-(https://octodex.github.com/images/yaktocat.png)
-![Chats]
-(https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
+
+![AppScreen](https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
+
+
+![AppScreen](https://octodex.github.com/images/yaktocat.png)
+![Chats](https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
 ![Groups]
 (https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg)
 ![Invite]
