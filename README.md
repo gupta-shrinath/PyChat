@@ -40,7 +40,7 @@
 
 # Screenshots
 ![AppScreen]
-(https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg)
+(https://octodex.github.com/images/yaktocat.png)
 ![Chats]
 (https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
 ![Groups]
