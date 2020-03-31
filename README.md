@@ -43,7 +43,6 @@
 <img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg"  align="center" width="200" alt="App Screen">
 <img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg"  align="center"width="200" alt="Chats">
 <img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg" align="center"width="200" alt="Add Items Screen">
-<img src="https://github.com/ShrinathGupta09/Inventory-Management/blob/master/Images/Drawer.png" align="center" width="200" alt="Groups">
 <img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg" align="center" width=200 alt="Invite">
 <img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg" align="center" width=200 alt="Call Log">
 </div>   
