@@ -39,16 +39,16 @@
     * [SinchAPI](https://download.sinch.com/android/3.17.4/sinch-android-rtc-3.17.4.zip)
 
 # Screenshots
-![App Screen]
-    (https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg)
+![AppScreen]
+(https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg)
 ![Chats]
-    (https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
+(https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
 ![Groups]
-    (https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg)
+(https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg)
 ![Invite]
-    (https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg)
-![Call Log]
-    (https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg)
+(https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg)
+![CallLog]
+(https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg)
 
 # Download
 [Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/tree/master/apk/apk-debug.apk)
