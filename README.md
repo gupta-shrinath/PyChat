@@ -39,15 +39,15 @@
     * [SinchAPI](https://download.sinch.com/android/3.17.4/sinch-android-rtc-3.17.4.zip)
 
 # Screenshots
-    ![App Screen]
+![App Screen]
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg)
-    ![Chats]
+![Chats]
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg)
-    ![Groups]
+![Groups]
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg)
-    ![Invite]
+![Invite]
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg)
-    ![Call Log]
+![Call Log]
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg)
 
 # Download
