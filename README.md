@@ -51,4 +51,4 @@
     (https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg)
 
 # Download
-    [Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/tree/master/apk/apk-debug.apk)
+[Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/tree/master/apk/apk-debug.apk)
