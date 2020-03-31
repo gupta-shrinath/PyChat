@@ -25,6 +25,7 @@
 * Google Play and GCP APIs. 
     * Play Services.
     * Google Places. 
+    * Google Admob.
 * Third Party Design Libraries.
     * [Glide](https://github.com/bumptech/glide)
     * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
@@ -36,3 +37,12 @@
 * Third Party Libraries.
     * [SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor)
     * [SinchAPI](https://download.sinch.com/android/3.17.4/sinch-android-rtc-3.17.4.zip)
+
+# Screenshots
+    ![App Screen](https://github.com/gupta-shrinath/PyChat/images/PyChat%20Screen.jpg)
+    ![Chats](https://github.com/gupta-shrinath/PyChat/images/Chats.jpg)
+    ![Groups](https://github.com/gupta-shrinath/PyChat/images/Groups.jpg)
+    ![Invite](https://github.com/gupta-shrinath/PyChat/images/Invite.jpg)
+
+# Download
+    [Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/apk/apk-debug.apk)
