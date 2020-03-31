@@ -49,6 +49,9 @@
 (https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg)
 ![CallLog]
 (https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg)
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Download
 [Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/tree/master/apk/apk-debug.apk)
