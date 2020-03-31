@@ -39,12 +39,14 @@
     * [SinchAPI](https://download.sinch.com/android/3.17.4/sinch-android-rtc-3.17.4.zip)
 
 # Screenshots
-![AppScreen](https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg)
-![Chats](https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg =200x)
-![Groups](https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg =200x)
-![Invite](https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg =200x)
-![CallLog](https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg =200x)
-
+<div align="center">
+<img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/PyChat%20Screen.jpg"  align="center" width="200" alt="App Screen">
+<img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Chats.jpg"  align="center"width="200" alt="Chats">
+<img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Groups.jpg" align="center"width="200" alt="Add Items Screen">
+<img src="https://github.com/ShrinathGupta09/Inventory-Management/blob/master/Images/Drawer.png" align="center" width="200" alt="Groups">
+<img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Invite.jpg" align="center" width=200 alt="Invite">
+<img src="https://github.com/gupta-shrinath/PyChat/blob/master/images/Call%20Log.jpg" align="center" width=200 alt="Call Log">
+</div>   
 
 # Download
 [Click here to download PyChat](https://github.com/gupta-shrinath/PyChat/tree/master/apk/apk-debug.apk)
